@@ -59,7 +59,7 @@
 // });
 
 
-    particlesJS.load('particles-js', 'particlesjs-config.json', function() {
+    particlesJS.load('lead-overlay', 'particlesjs-config.json', function() {
         console.log('particles.js loaded - callback');
     });
 
